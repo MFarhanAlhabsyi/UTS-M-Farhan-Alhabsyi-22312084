@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1012285946689",
+    "project_id": "latihan-22312141",
+    "storage_bucket": "latihan-22312141.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012285946689:android:ae19b5b00dcd4f9b257fc0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOqggaN2hIyj8hwLr4ICt71hPcRtq4x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012285946689:android:42db3219f9d17655257fc0",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOqggaN2hIyj8hwLr4ICt71hPcRtq4x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012285946689:android:993dc63bb65fe30a257fc0",
+        "android_client_info": {
+          "package_name": "com.keyzha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOqggaN2hIyj8hwLr4ICt71hPcRtq4x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012285946689:android:95f68c59206a233e257fc0",
+        "android_client_info": {
+          "package_name": "com.keyzha.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOqggaN2hIyj8hwLr4ICt71hPcRtq4x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012285946689:android:2988033cd7f1fb1b257fc0",
+        "android_client_info": {
+          "package_name": "uts.ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOqggaN2hIyj8hwLr4ICt71hPcRtq4x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
