@@ -1,8 +1,8 @@
 {
   "project_info": {
     "project_number": "1012285946689",
-    "project_id": "latihan-22312141",
-    "storage_bucket": "latihan-22312141.firebasestorage.app"
+    "project_id": "latihan-22312084",
+    "storage_bucket": "latihan-22312084.firebasestorage.app"
   },
   "client": [
     {
@@ -47,7 +47,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1012285946689:android:993dc63bb65fe30a257fc0",
         "android_client_info": {
-          "package_name": "com.keyzha"
+          "package_name": "com.farhan"
         }
       },
       "oauth_client": [],
@@ -66,7 +66,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1012285946689:android:95f68c59206a233e257fc0",
         "android_client_info": {
-          "package_name": "com.keyzha.app"
+          "package_name": "com.farhan.app"
         }
       },
       "oauth_client": [],

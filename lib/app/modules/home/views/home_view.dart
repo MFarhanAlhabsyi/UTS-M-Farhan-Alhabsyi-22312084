@@ -33,7 +33,7 @@ class _DashboardAdminState extends State<DashboardAdmin> {
   int _index = 0;
   List<Map> _fragment = [
     {
-      'title': 'Dashboard',
+      'title': 'Data Matakuliah',
       'view': MahasiswaView(),
       'add': () => MahasiswaAddView(),
     },
@@ -63,8 +63,9 @@ class _DashboardAdminState extends State<DashboardAdmin> {
         titleSpacing: 0,
         title: Text(_fragment[_index]['title']),
         actions: [
-          IconButton(onPressed: () => Get.to(_fragment[_index]['add']), 
-          icon: Icon(Icons.add_circle_outline),
+          IconButton(
+            onPressed: () => Get.to(_fragment[_index]['add']),
+            icon: Icon(Icons.add_circle_outline),
           )
         ],
       ),
@@ -90,7 +91,7 @@ class _DashboardAdminState extends State<DashboardAdmin> {
                   color: Colors.white,
                 ),
                 Text(
-                  "Keyzha Aruha Putra",
+                  "M Farhan Alhabsyi",
                   style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
@@ -115,7 +116,7 @@ class _DashboardAdminState extends State<DashboardAdmin> {
               Get.back();
             },
             leading: Icon(Icons.dashboard),
-            title: Text('Dashboard'),
+            title: Text('Data Matakuliah'),
             trailing: Icon(Icons.navigate_next),
             iconColor: Colors.teal,
             textColor: Colors.teal,
